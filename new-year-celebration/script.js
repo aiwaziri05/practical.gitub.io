@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', (currentYear) => {
     newYear.innerHTML = '4';
 
     document.querySelector('.js-current-year')
-      .innerHTML = 'Happy New Year 202'
+      .innerHTML = '🎊Happy New Year🎗️202';
   });
 
 });
